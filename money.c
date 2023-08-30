@@ -1,3 +1,4 @@
+//convert any amount into denomination highest to lowest//
 #include<stdio.h>
 int main(int argc, char const *argv[])
 {
