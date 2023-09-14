@@ -7,7 +7,7 @@ int main(int argc, char const *argv[])
     printf("Enter a character:- \t");
     scanf("%c", &ch);
 
-if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u')
+if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' || ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U')
 {
     printf("Character is vowel ");
 
